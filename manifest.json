@@ -1,19 +1,14 @@
 {
-  "name": "TCG Forge Ultimate",
+  "name": "TCG Forge",
   "short_name": "TCG Forge",
-  "description": "Creador de cartas TCG personalizadas",
+  "description": "Creador de cartas TCG",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#1a1a1a",
   "theme_color": "#0984e3",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://via.placeholder.com/512",
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
